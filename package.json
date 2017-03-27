@@ -1,0 +1,24 @@
+{
+  "name": "arrowscript",
+  "version": "0.1.0",
+  "description": "A stream-driven scripting language.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InitializeSahib/ArrowScript.git"
+  },
+  "keywords": [
+    "programming",
+    "stream",
+    "data",
+    "arrows"
+  ],
+  "author": "Sahibdeep Nann <initializesahib@gmail.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/InitializeSahib/ArrowScript/issues"
+  },
+  "homepage": "https://github.com/InitializeSahib/ArrowScript#readme",
+  "bin": {
+    "arrowrepl": "./repl.js"
+  }
+}
